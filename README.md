@@ -10,10 +10,11 @@
 
 - TypeScript
 
+- JavaScript
+
 <h2> Libraries </h2>
 
 - React
-
 
 <h2> Framework </h2>
 
